@@ -15,7 +15,7 @@ function sendEmail(){
         })
         const mail_configs ={
             from:'abhinavt20006@gmail.com',
-            to:'anoopvrinda3@gmail.com',
+            to:'rknair256@gmail.com',
             subject:'testing coding',
             text:"checking if this email will be sent"
         }
