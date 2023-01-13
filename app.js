@@ -10,7 +10,7 @@ function sendEmail(){
             service:'gmail',
             auth:{
                 user:'abhinavt20006@gmail.com',
-                pass:'7907283389a@a'
+                pass:'rbggzndnwjslxetw'
             }
         })
         const mail_configs ={
